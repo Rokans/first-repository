@@ -10,4 +10,18 @@ you belongs to my heart;;;;;;;;;;;;;;;;;;;;;;
  l love you much;
 
 
-bye bye
+bye by
+
+e
+
+
+int main()
+{
+
+int a=79, b=090;
+
+int c = a+b;
+
+
+return 0;
+}
