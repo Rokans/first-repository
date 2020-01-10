@@ -1,0 +1,9 @@
+.
+├── a.txt
+├── b.txt
+├── c.txt
+├── output.txt
+├── s.txt
+└── tree
+
+0 directories, 6 files

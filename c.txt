@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+
+int a=70, b=90;
+int c=a+b;
+return 0;
+}
